@@ -4,7 +4,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF6NzZnNWM3aGU4ZGJxaDlpdWdsMWo2amdvdnlobTh0bzlqeWtqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyhYZlVSG7xMGUS1C9/giphy.webp" alt="cute cat">
 </p>
 
-Hello! I am a QA Engineer. I enjoy finding bugs and making software better. I specialize in testing APIs, web interfaces and mobile applications.
+Hello! I am a dedicated QA engineer with experience in functional testing, especially web application testing. My commitment to quality and detail has driven my career in software quality assurance.
 
 ## Portfolio
 - My Projects:
