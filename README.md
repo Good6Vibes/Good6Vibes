@@ -12,4 +12,5 @@ Hello! I am a dedicated QA engineer with experience in functional testing, espec
   - [Online Store Hexlet](https://github.com/Good6Vibes/qa-engineer-project-84)
   - [Telegram Mini App](https://github.com/Good6Vibes/Project-Black-Friday)
   - [Online Store Plenka](https://github.com/Good6Vibes/PlenkaPro)
+  - [Open Source Project Codebattle](https://github.com/Good6Vibes/qa-engineer-project-85)
 
