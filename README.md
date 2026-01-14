@@ -4,7 +4,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF6NzZnNWM3aGU4ZGJxaDlpdWdsMWo2amdvdnlobTh0bzlqeWtqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyhYZlVSG7xMGUS1C9/giphy.webp" alt="cute cat">
 </p>
 
-Hello! I am a dedicated QA engineer with experience in functional testing, especially web application testing. My commitment to quality and detail has driven my career in software quality assurance.
+Hello! I am a dedicated QA engineer with experience in functional testing, especially web and mobile application testing. My commitment to quality and detail has driven my career in software quality assurance.
 
 ## Portfolio
 - My Projects:
